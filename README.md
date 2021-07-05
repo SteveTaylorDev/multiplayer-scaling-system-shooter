@@ -1,4 +1,4 @@
-# arcadeshooter-scalingsystem
+# Arcade Shooter (with Scaling Systems)
 
 One of my oldest projects, built around 2016. Based on learning materials from Unity, this project came from a desire to build much further than what the materials covered, including functionality such as:
 

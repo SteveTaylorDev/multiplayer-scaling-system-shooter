@@ -1,6 +1,6 @@
 # Arcade Shooter (with Scaling Systems)
 
-One of my oldest projects, built around 2016. Based on learning materials from Unity, this project came from a desire to build much further than what the materials covered, including functionality such as:
+One of my oldest projects, built around 2016. Based on learning materials provided by Unity, this project came from a desire to build much further than what the materials covered, including functionality such as:
 
 // Health // 
 Starting with a blank project, I built an arcade style shooter system with help from Unity tutorials. The first thing added beyond that was a health system, along with an indicator to the player model, which adjusts the material color to match the current health. Player attributes such as a player number and color were also added, which could be reassigned or adjusted during gameplay.

@@ -1,4 +1,4 @@
-# Arcade Shooter (with Scaling Systems)
+# Multiplayer Scaling System (Arcade Shooter)
 
 One of my oldest projects, built around 2016. Based on learning materials provided by Unity, this project came from a desire to build much further than what the materials covered, including functionality such as:
 

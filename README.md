@@ -6,7 +6,10 @@ One of my oldest projects, built around 2016. Based on learning materials provid
 Health system functionality was added to the base shooter gameplay (which was built with the help of Unity tutorials), along with a health indicator to the player model, which adjusts the material color to match the current health. Player attributes such as a player number and color were also added, which could be reassigned or adjusted during gameplay.
 
 // Multiplayer // 
-Drop-in/drop-out multiplayer was added, with a game manager singleton handling each, which led to the start of the scaling systems; beginning with enemy health scaling, which checks for the current difficulty level and player amount, and scales enemy max health in realtime based on an initial health value.
+Drop-in/drop-out multiplayer was added, with a game manager singleton handling each player, which led to the start of the scaling systems.
+
+//Enemy Scaling //
+Enemy health scaling was implemented, which checks for the current difficulty level and player amount, and scales enemy max health in realtime based on an initial health value.
 
 // Weapon // 
 A dedicated script for weapon behaviour attributes was introduced, which provided functionality for customizable weapon shot speed and damage during gameplay. This was built intended to be used alongside the next scaling system that was added, EXP.

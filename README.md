@@ -12,7 +12,7 @@ Drop-in/drop-out multiplayer was added, with a game manager singleton handling e
 Enemy health scaling was implemented, which checks for the current difficulty level and player amount, and scales enemy max health in realtime based on an initial health value.
 
 // Weapon // 
-A dedicated script for weapon behaviour attributes was introduced, which provided functionality for customizable weapon shot speed and damage during gameplay. This was built intended to be used alongside the next scaling system that was added, EXP.
+A dedicated script for weapon behaviour attributes was built, which provided functionality for customizable weapon shot speed, amount, and damage during gameplay. This was built intended to be used alongside the next scaling system that was added, EXP.
 
 // Exp // 
 Each player is assigned two exp values, passive exp and active exp, with each being spawned a different rates when hitting an enemy. The damage done determines how much of each will spawn. Exp is spawned when hitting an enemy, and attracts directly to the player. When an enemy is defeated, it spawns an equal amount of exp for each player (scaled with the enemy max health), then sets that exp to attract to its respective player, ignoring the others. It will also spawn exp that will float through space until a player gets close enough. This allows for a balanced multiplayer experience, with no player missing out on exp, but still allowing the chance to gain more depending on shots landed.

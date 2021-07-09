@@ -1,0 +1,46 @@
+Initialize engine version: 5.5.0b3 (52385a4d4cc9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documents\Personal Docs\Projects\Personal\Old\Unity (old)\Arcade Shooter\Builds\v0.08\Arcade Shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documents\Personal Docs\Projects\Personal\Old\Unity (old)\Arcade Shooter\Builds\v0.08\Arcade Shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documents\Personal Docs\Projects\Personal\Old\Unity (old)\Arcade Shooter\Builds\v0.08\Arcade Shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documents\Personal Docs\Projects\Personal\Old\Unity (old)\Arcade Shooter\Builds\v0.08\Arcade Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Documents\Personal Docs\Projects\Personal\Old\Unity (old)\Arcade Shooter\Builds\v0.08\Arcade Shooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Documents\Personal Docs\Projects\Personal\Old\Unity (old)\Arcade Shooter\Builds\v0.08\Arcade Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Documents\Personal Docs\Projects\Personal\Old\Unity (old)\Arcade Shooter\Builds\v0.08\Arcade Shooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Documents\Personal Docs\Projects\Personal\Old\Unity (old)\Arcade Shooter\Builds\v0.08\Arcade Shooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Documents\Personal Docs\Projects\Personal\Old\Unity (old)\Arcade Shooter\Builds\v0.08\Arcade Shooter_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Documents\Personal Docs\Projects\Personal\Old\Unity (old)\Arcade Shooter\Builds\v0.08\Arcade Shooter_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.229 seconds
+Platform assembly: D:\Documents\Personal Docs\Projects\Personal\Old\Unity (old)\Arcade Shooter\Builds\v0.08\Arcade Shooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Documents\Personal Docs\Projects\Personal\Old\Unity (old)\Arcade Shooter\Builds\v0.08\Arcade Shooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 5760x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.003300 ms
+There are zero active players, setting to 1.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Active player amount is greater than the Players array. Setting to array length.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Active player amount is greater than the Players array. Setting to array length.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Active player amount is greater than the Players array. Setting to array length.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 51c0 -> priority: 1 
+  Thread -> id: 3634 -> priority: 1 

@@ -1,0 +1,98 @@
+Initialize engine version: 5.5.0b3 (52385a4d4cc9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   20.19.15.4444
+Begin MonoManager ReloadAssembly
+Platform assembly: A:\Documents\Projects\Unity\Arcade Shooter\Builds\v0.6\Arcade Shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading A:\Documents\Projects\Unity\Arcade Shooter\Builds\v0.6\Arcade Shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: A:\Documents\Projects\Unity\Arcade Shooter\Builds\v0.6\Arcade Shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading A:\Documents\Projects\Unity\Arcade Shooter\Builds\v0.6\Arcade Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: A:\Documents\Projects\Unity\Arcade Shooter\Builds\v0.6\Arcade Shooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading A:\Documents\Projects\Unity\Arcade Shooter\Builds\v0.6\Arcade Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: A:\Documents\Projects\Unity\Arcade Shooter\Builds\v0.6\Arcade Shooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading A:\Documents\Projects\Unity\Arcade Shooter\Builds\v0.6\Arcade Shooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: A:\Documents\Projects\Unity\Arcade Shooter\Builds\v0.6\Arcade Shooter_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading A:\Documents\Projects\Unity\Arcade Shooter\Builds\v0.6\Arcade Shooter_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.017 seconds
+Platform assembly: A:\Documents\Projects\Unity\Arcade Shooter\Builds\v0.6\Arcade Shooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: A:\Documents\Projects\Unity\Arcade Shooter\Builds\v0.6\Arcade Shooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 28.749826 ms
+ERROR: Camera for a Player lower than 1 detected. Removing.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.235415 ms
+
+Unloading 8138 unused Assets to reduce memory usage. Loaded Objects now: 550.
+Total: 11.397988 ms (FindLiveObjects: 0.218839 ms CreateObjectMapping: 0.366657 ms MarkObjects: 0.397776 ms  DeleteObjects: 10.414465 ms)
+
+ERROR: Camera for a Player lower than 1 detected. Removing.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.662542 ms
+
+Unloading 2977 unused Assets to reduce memory usage. Loaded Objects now: 550.
+Total: 4.441795 ms (FindLiveObjects: 0.080559 ms CreateObjectMapping: 0.085829 ms MarkObjects: 0.128744 ms  DeleteObjects: 4.146160 ms)
+
+ERROR: Camera for a Player lower than 1 detected. Removing.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.279409 ms
+
+Unloading 2773 unused Assets to reduce memory usage. Loaded Objects now: 550.
+Total: 4.158458 ms (FindLiveObjects: 0.066254 ms CreateObjectMapping: 0.083068 ms MarkObjects: 0.106157 ms  DeleteObjects: 3.902726 ms)
+
+ERROR: Camera for a Player lower than 1 detected. Removing.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.759916 ms
+
+Unloading 8445 unused Assets to reduce memory usage. Loaded Objects now: 550.
+Total: 11.699647 ms (FindLiveObjects: 0.198260 ms CreateObjectMapping: 0.331020 ms MarkObjects: 0.119709 ms  DeleteObjects: 11.050155 ms)
+
+ERROR: Camera for a Player lower than 1 detected. Removing.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2670 -> priority: 1 
+  Thread -> id: 23ec -> priority: 1 
